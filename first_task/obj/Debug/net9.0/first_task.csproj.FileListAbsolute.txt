@@ -1,0 +1,14 @@
+D:\.net_pro\first_task\first_task\bin\Debug\net9.0\first_task.exe
+D:\.net_pro\first_task\first_task\bin\Debug\net9.0\first_task.deps.json
+D:\.net_pro\first_task\first_task\bin\Debug\net9.0\first_task.runtimeconfig.json
+D:\.net_pro\first_task\first_task\bin\Debug\net9.0\first_task.dll
+D:\.net_pro\first_task\first_task\bin\Debug\net9.0\first_task.pdb
+D:\.net_pro\first_task\first_task\obj\Debug\net9.0\first_task.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net_pro\first_task\first_task\obj\Debug\net9.0\first_task.AssemblyInfoInputs.cache
+D:\.net_pro\first_task\first_task\obj\Debug\net9.0\first_task.AssemblyInfo.cs
+D:\.net_pro\first_task\first_task\obj\Debug\net9.0\first_task.csproj.CoreCompileInputs.cache
+D:\.net_pro\first_task\first_task\obj\Debug\net9.0\first_task.dll
+D:\.net_pro\first_task\first_task\obj\Debug\net9.0\refint\first_task.dll
+D:\.net_pro\first_task\first_task\obj\Debug\net9.0\first_task.pdb
+D:\.net_pro\first_task\first_task\obj\Debug\net9.0\first_task.genruntimeconfig.cache
+D:\.net_pro\first_task\first_task\obj\Debug\net9.0\ref\first_task.dll
